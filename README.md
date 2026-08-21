@@ -4,7 +4,7 @@
 
 ## Stats
 
-- **Total assets**: 1305
+- **Total assets**: 1441
 - **License**: CC0-1.0 (all Kenney assets are public domain)
 - **Source**: [kenney.nl](https://kenney.nl)
 
@@ -15,6 +15,7 @@
 | Kenney Background Elements | 127 | CC0-1.0 | [Link](https://kenney.nl/assets/background-elements) |
 | Kenney Map Pack | 195 | CC0-1.0 | [Link](https://kenney.nl/assets/map-pack) |
 | Kenney Platformer Art Deluxe | 983 | CC0-1.0 | [Link](https://kenney.nl/assets/platformer-art-deluxe) |
+| Kenney Tiny Farm | 136 | CC0-1.0 | [Link](https://kenney.nl/assets/tiny-farm) |
 
 ## Structure
 
@@ -23,7 +24,7 @@ assets-2d-nature/
 ├── assets/kenney/    # Organized by source pack
 ├── previews/         # Pack preview images
 ├── LICENSES/         # License files per pack
-├── manifest.json     # Machine-readable asset index (1305 entries)
+├── manifest.json     # Machine-readable asset index (1441 entries)
 ├── tags.json         # Genre, theme, style tags
 └── README.md
 ```
